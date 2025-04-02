@@ -1,0 +1,60 @@
+Spam:
+
+Subject: 🎉 Congratulations! You Won $1,000,000 🎉  
+Dear User,  
+You have been randomly selected as the winner of our grand lottery prize!  
+Claim your prize now by clicking here: [scam-link]  
+Hurry! This offer expires in 24 hours.  
+
+
+Subject: 🚨 Your Account is Suspended! Act Now 🚨  
+Dear Customer,  
+We have detected suspicious activity on your account.  
+Please verify your identity by logging in here: [fake-bank-link]  
+Failure to do so will result in account deactivation.  
+
+
+Subject: 🏷️ 90% OFF Exclusive Deal for You!  
+Hello,  
+This is a **once-in-a-lifetime** opportunity to get our premium membership at a 90% discount!  
+Click here now to grab this deal: [spam-link]  
+Hurry, offer expires in 2 hours!  
+
+
+Subject: 💰 Make $5000/week from Home! No Experience Needed 💰  
+Hello,  
+Earn thousands of dollars working from home with just 1 hour per day.  
+Sign up now: [scam-link]  
+No skills required, just easy money!  
+
+
+Ham:
+
+Subject: Meeting at 5 PM?  
+Hey John,  
+Just checking if we’re still meeting at 5 PM today. Let me know if you need to reschedule.  
+Thanks!  
+
+
+Subject: Project Update - Deadline Extended  
+Hi Team,  
+Due to some unforeseen delays, the deadline for our project has been extended to next Friday.  
+Let me know if you have any concerns.  
+Best,  
+Manager  
+
+
+Subject: 📢 Your Weekly Tech News Update  
+Hi Alex,  
+Here’s this week’s latest news in tech:  
+- AI advancements in 2025  
+- New smartphone launches  
+Read more: [link]  
+
+
+Subject: RE: Your Order Inquiry  
+Dear Customer,  
+Thank you for reaching out! Your order #12345 has been shipped and should arrive in 3-5 business days.  
+Let us know if you need any further assistance.  
+Regards,  
+Support Team  
